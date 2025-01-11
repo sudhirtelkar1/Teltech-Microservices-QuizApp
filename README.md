@@ -6,8 +6,8 @@ Microservices:
 
 1   Question Microservice:
 
-This microservice is responsible for managing quiz questions, including their creation, retrieval, and categorization.
-Technologies Used:
+This microservice is responsible for managing quiz questions, including their creation, retrieval, and categorization.  
+Technologies Used:  
   Spring Boot: For building the backend services with RESTful APIs.
   PostgreSQL: Used as the database to store question data.
   Exception Handling: Custom exception handling ensures that any errors occurring during database interaction or API request processing are caught and handled gracefully.
